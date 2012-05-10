@@ -8,3 +8,5 @@ pom.xml
 *.swo
 .DS_Store
 autodoc/**
+.classpath
+.project

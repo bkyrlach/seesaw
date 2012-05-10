@@ -25,9 +25,6 @@
                  [com.jgoodies/forms "1.2.1"]
                  [org.swinglabs.swingx/swingx-core "1.6.3"]
                  [j18n "1.0.0"]]
-  :dev-dependencies [[com.stuartsierra/lazytest "1.1.2"]
-                     [lein-clojars "0.7.0"]
-                     [lein-autodoc "0.9.0"]]
   :repositories {"stuartsierra-releases" "http://stuartsierra.com/maven2"}
   :autodoc {
     :name "Seesaw", 
